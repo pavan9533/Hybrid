@@ -1,0 +1,16 @@
+Generic keywords-
+openBrowser
+navigate
+click
+type
+select
+getText
+
+Validation keywords-
+validateTitle
+validateText
+validateElementpresent
+
+Application Deendent keywords-
+login
+selectDate
